@@ -1,40 +1,116 @@
+<!-- =========================
+  GitHub Profile README v2
+  Replace: YOUR_USERNAME + your links
+========================== -->
+
 <h1 align="center">Hi 👋, I'm Vidun Tharumika</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- 🔭 I’m currently studying on **IIT Sri Lanka Uni**
-
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **vidun.us@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/vidun-tharumika-8791aa293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidun tharumika" height="30" width="40" /></a>
-<a href="https://fb.com/vidun tharumika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vidun tharumika" height="30" width="40" /></a>
-<a href="https://instagram.com/vidu_tharu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vidu_tharu" height="30" width="40" /></a>
-<a href="https://discord.gg/Tharumika#6296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tharumika#6296" height="30" width="40" /></a>
+<p align="center">
+  <b>Passionate IT Student</b> • Exploring the Boundless World of Technology • Building cool things
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:vidun.us@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/YOUR_INVITE">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=flat&color=0e75b6" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Tharumika"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Tharumika" /></a></p><br><br>
+## 🚀 About Me
+- 🎓 Studying IT / CS in Sri Lanka  
+- 🌱 Currently learning **Java + Web Development**
+- 💡 Interested in **Security, DevOps, Cloud, and AI**
+- 🧠 Ask me about **Python, Java, HTML, CSS**
+- 📫 Reach me: **YOUR_EMAIL@gmail.com**
 
+---
+
+## 🧰 Tech Stack
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+
+**Frameworks / Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,figma,linux" />
+
+**Other**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,arduino" />
+
+---
+
+## 📌 Featured Projects
+> Put your best 2–4 projects here (clean + impressive)
+
+- 🔥 **Project Name 1** — short one-line description  
+  ⭐ Tech: `React` `Node` `MongoDB`  
+  🔗 Repo: https://github.com/YOUR_USERNAME/REPO_NAME
+
+- ⚡ **Project Name 2** — short one-line description  
+  ⭐ Tech: `Java` `MySQL`  
+  🔗 Repo: https://github.com/YOUR_USERNAME/REPO_NAME
+
+- 🛠️ **Project Name 3** — short one-line description  
+  ⭐ Tech: `Python`  
+  🔗 Repo: https://github.com/YOUR_USERNAME/REPO_NAME
+
+---
+
+## 📊 GitHub Stats (Advanced)
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Auto)
+> Works after you set a GitHub Action workflow (I can give it if you want)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## ☕ Support
+<p>
+  <a href="https://www.buymeacoffee.com/YOUR_ID">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Consistency beats talent when talent doesn’t show up.”</i>
+</p>
