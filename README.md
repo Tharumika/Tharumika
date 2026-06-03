@@ -15,14 +15,14 @@
   <summary><b>🧠 My Engineering Philosophy (What makes me tick)</b></summary>
 
   * 🧩 **The Puzzle Obsession:** I actually enjoy getting stuck on complex bugs. The dopamine hit of finally figuring out *why* a pipeline broke or refactoring an ugly block of code into pure elegance is why I chose this path.
-  * 🏗️ **Architecting the Hidden Layer:** Beautiful front-ends are great, but my passion lies deep underneath—designing data channels, setting up servers, and figuring out how massive backend components talk to each other seamlessly.
-  * 🔄 **Continuous Evolution:** Staying in a comfort zone is boring. I treat my brain like software—constantly running updates, jumping into unfamiliar languages, and experimenting with cloud architecture.
+  * 🏗️ **Architecting the Hidden Layer:** Beautiful front ends are great, but my passion lies deep underneath designing data channels, setting up servers, and figuring out how massive backend components talk to each other seamlessly.
+  * 🔄 **Continuous Evolution:** Staying in a comfort zone is boring. I treat my brain like software constantly running updates, jumping into unfamiliar languages, and experimenting with cloud architecture.
 </details>
 
 <details>
   <summary><b>🔋 Real-World Runtime (Off-Screen)</b></summary>
 
-  * 🏸 **On the Court:** When my brain is fried and I need to clear my cache, you'll find me playing badminton. It's high-speed, structural, and requires split-second strategy—basically real-time physical logic.
+  * 🏸 **On the Court:** When my brain is fried and I need to clear my cache, you'll find me playing badminton. It's high-speed, structural, and requires split second strategy basically real time physical logic.
   * 💡 **Tech Safari:** I spend a lot of my spare time down internet rabbit holes reading about emerging tech trends, edge-case engineering problems, and brainstorming my next weird build.
 </details>
 
