@@ -5,7 +5,7 @@
 ## 🗺️ The Identity Blueprint
 
 <details open>
-  <summary><b>📖 TL;DR: Who Am I?</b></summary>
+  <summary><b>📖 Who Am I?</b></summary>
   <p align="left">
     I am a Computer Science student at IIT who looks at software the way an architect looks at a skyscraper blueprint. I don't just want to write syntax that "works"; I am genuinely fascinated by <b>how data moves</b>, <b>how cloud infrastructure scales</b>, and <b>how messy, real-world problems get broken down into clean, logic-driven code.</b> If it involves building solid foundations under the hood, I'm all in.
   </p>
